@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Vidro</title>
+        <style>
+            h1 {
+                color: rgb(32, 31, 31);
+            font-family: verdana;
+            font-size: 50pt;
+            
+            }
+
+            h4{
+                font-family: arial;
+                 font-size: 20pt;
+                 color: rgb(24, 14, 2);                 
+            }
+            h2{
+                font-size: 35pt;
+                font-family: Verdana, Geneva, Tahoma, sans-serif;            }
+        </style>
+           
+    </head>
+    <body background="vidro.jpg">
+        <h1>VIDRO</h1>
+    </body>
+    <body>
+        <center>
+        <h4>
+        <p>
+            A reciclagem do vidro é um processo industrial onde o vidro usado é derretido para dar origem à matéria-prima para novos produtos, em grande parte, embalagens e garrafas.
+
+As garrafas de vidro contêm, em média, 60% de vidro reciclado e 40% de matéria-prima nova, se forem coloridas, o percentual reciclado pode ser ainda maior, podendo chegar a 90.
+        </p></h4>
+        <p>
+
+            <h2>Importância da reciclagem de vidro</h2>
+        </center>   
+        </p>
+        <P>A reciclagem do vidro possui grande importância econômica e de conservação do meio ambiente. A coleta e separação do vidro e outros materiais recicláveis em cooperativas gera renda para milhares de famílias.
+
+            O vidro é um material que pode ser reciclado diversas vezes, por isso, é um processo que diminui o custo da embalagem de produtos alimentícios e garrafas de bebidas
+            A reciclagem do vidro também conserva a natureza, pois diminui a retirada de recursos minerais como areia, barrilha, calcário e feldspato.
+            
+            Além disso, esse processo economiza energia, emite menos resíduos sólidos e de CO2, diminui custos de coleta de lixo urbana e aumenta a vida útil dos aterros sanitários.
+            
+            A reciclagem do vidro vem sendo cada vez mais utilizada e incentivada pelas indústrias porque ela é uma atividade economicamente viável e com grande potencial para obter lucros.</P>
+    </body>
+       
+</html>
